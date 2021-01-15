@@ -1,5 +1,5 @@
-  //cherio request - implementação do JQuery para servidores 
-
+  //cherio - implementação do JQuery para servidores   
+  //request - simplificação do metódo http nativo do node 
   var request = require('request');
   var cheerio = require('cheerio');
 
@@ -16,11 +16,12 @@
   
     $('.lister-list tr' ).each(function() {
       var title = $(this).find('.titleColumn a').text().trim();
-      var rating = $(this).find('.ratingColumn strong').text().trim();
+      var year = $(this).find('.titleColumn span').text().trim();
+      var rating = $(this).find('.imdbRating strong').text().trim();
   
     //   console.log('Título: ' + title);
         console.log('Titulo: + ' + title);
-        //fs - modulo interno
+        //fs - modulo interno + rating
        fs.appendFile('imdb.txt', title + ' - ' + rating + '\n', function (err) {
            if (err) throw err;
        })

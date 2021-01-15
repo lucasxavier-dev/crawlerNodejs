@@ -8,18 +8,18 @@ O Céu da Meia-Noite - 5.6
 Promising Young Woman - 7.4
 Pequenos Grandes Heróis - 4.7
 Karatê Kid 3: O Desafio Final - 5.3
-Locked Down - 7.9
+Locked Down - 4.6
 Karatê Kid 2: A Hora da Verdade Continua - 6.1
 Mulher-Maravilha - 7.4
 Druk - 7.8
 Vingadores: Ultimato - 8.4
-Zona de Combate - 
+Zona de Combate - 7.9
 Nomadland - 7.7
 Magnatas do Crime - 7.8
 Mulan - 5.6
 After: Depois da Verdade - 5.0
 Run - 6.7
-Uma Noite em Miami... - 6.0
+Uma Noite em Miami... - 6.2
 Parasita - 8.6
 O Som do Silêncio - 7.8
 Destruição Final: O Último Refúgio - 6.4
@@ -27,13 +27,13 @@ O Rei Leão - 6.9
 O Poderoso Chefão - 9.2
 Entre Facas e Segredos - 7.9
 Monster Hunter - 5.3
-365 dni - 3.3
 Os Croods 2: Uma Nova Era - 7.0
+365 dni - 3.2
 A Voz Suprema do Blues - 7.2
 1917 - 8.3
 Harry Potter e a Pedra Filosofal - 7.6
 Desconhecido - 6.8
-News of the World - 7.1
+News of the World - 7.0
 Duna - 
 Os 7 de Chicago - 7.8
 Um Sonho de Liberdade - 9.3
@@ -88,7 +88,7 @@ Hamilton - 8.6
 Jojo Rabbit - 7.9
 After - 5.3
 Era uma vez um sonho - 6.7
-Minari - 7.7
+Minari - 7.8
 Forrest Gump: O Contador de Histórias - 8.8
 Bastardos Inglórios - 8.3
 O Escândalo - 6.8
